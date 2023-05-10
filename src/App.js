@@ -1,5 +1,4 @@
 import "./App.css";
-import "./other";
 import React, { useState } from 'react';
 import Title from "./components/Title";
 import AddTodo from "./components/AddTodo";
@@ -67,6 +66,9 @@ function App() {
             ))}
           </div>
         </div>}
+      </div>
+      <div id="moduleForum">
+        <h4>Module Forum</h4>
       </div>
     </div>
   );

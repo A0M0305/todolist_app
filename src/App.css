@@ -5,6 +5,18 @@ background-image: url(/public/Web\ capture_10-5-2023_12277_learn.solent.ac.uk.jp
 background-size: cover;
 }
 
+#moduleForum {
+  width: 120px;
+  height: 38px;
+  margin: 262px 363px;
+  border-radius: 5px;
+  border: 2px solid #2b2a2a;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  padding: 0 0 0 5px;
+}
+
 #toDoForm {
   width: 900px;
   height: 600px;
