@@ -1,8 +1,22 @@
 @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap");
+
 body {
 background-image: url(/public/Web\ capture_10-5-2023_12277_learn.solent.ac.uk.jpeg);
+background-size: cover;
 }
-.App {
+
+#my-toDoApp {
+  width: 100px;
+  height: 30px;
+  margin: 10px 1260px;
+  background-color: rgb(233, 172, 233, 0.6);
+  font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#toDoForm {
   width: 900px;
   height: 600px;
   margin: 150px auto;
@@ -10,8 +24,9 @@ background-image: url(/public/Web\ capture_10-5-2023_12277_learn.solent.ac.uk.jp
   border-radius: 10px;
   align-items: center;
   justify-content: center;
-  background-color: rgb(233, 172, 233, 0.9);;
-  overflow-y: scroll;
+  background-color: rgb(233, 172, 233, 0.9); 
+  overflow-y: scroll; 
+  display: none; /* Hide the DIV */
 }
 
 .title h1 {

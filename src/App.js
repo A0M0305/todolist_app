@@ -40,22 +40,27 @@ function App() {
   };
   return (
     <div className="App">
-      <div>
-        <Title />
+      <div id="myToDoApp">
+        <button id="my-toDoApp">My To-Do</button>
       </div>
-      <div>
-        <AddTodo />
-      </div>
-      <div className="todo_container">
-        {todos.map((todo) => (
-          <Todo
-            key={todo.id}
-            todo={todo}
-            toggleComplete={toggleComplete}
-            handleDelete={handleDelete}
-            handleEdit={handleEdit}
-          />
-        ))}
+      <div id="toDoForm">
+        <div>
+          <Title />
+        </div>
+        <div>
+          <AddTodo />
+        </div>
+        <div className="todo_container">
+          {todos.map((todo) => (
+            <Todo
+              key={todo.id}
+              todo={todo}
+              toggleComplete={toggleComplete}
+              handleDelete={handleDelete}
+              handleEdit={handleEdit}
+            />
+          ))}
+        </div>
       </div>
     </div>
   );
