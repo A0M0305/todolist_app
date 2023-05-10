@@ -1,4 +1,5 @@
 import "./App.css";
+import "./other";
 import React from "react";
 import Title from "./components/Title";
 import AddTodo from "./components/AddTodo";

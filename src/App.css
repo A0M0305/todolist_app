@@ -10,25 +10,26 @@ background-image: url(/public/Web\ capture_10-5-2023_12277_learn.solent.ac.uk.jp
   border-radius: 10px;
   align-items: center;
   justify-content: center;
-  background-color: rgb(233, 172, 233);
+  background-color: rgb(233, 172, 233, 0.9);;
   overflow-y: scroll;
 }
 
 .title h1 {
-  color: #3a3a3a;
+  color: #000000;
   text-align: center;
   margin: 30px 0;
   font-family: "Poppins", sans-serif;
   font-weight: 700;
 }
+
 form {
-  max-width: 500px;
+  max-width: 550px;
   margin: 0 auto;
   background: white;
   padding: 10px 20px;
   margin-top: 50px;
   border-radius: 5px;
-  box-shadow: 1px 2px 10px #ddd;
+  box-shadow: 1px 2px 10px #0f0f0f;
 }
 form h3 {
   text-align: center;
@@ -62,7 +63,7 @@ form input {
 }
 
 .todo_container {
-  width: 95%;
+  width: 90%;
   margin: 0 auto;
 }
 .todo {
