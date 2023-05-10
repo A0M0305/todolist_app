@@ -23,23 +23,23 @@ export default function Todo({ todo, toggleComplete, handleDelete, handleEdit,})
         className="list"
         onChange={handleChange}
       />
-      <div>
-        <button
-          className="button-complete"
-          onClick={() => toggleComplete(todo)}
-        >
-          <CheckCircleIcon id="i" />
-        </button>
-        <button
-          className="button-edit"
-          onClick={() => handleEdit(todo, newTitle)}
-        >
-          <EditIcon id="i" />
-        </button>
-        <button className="button-delete" onClick={() => handleDelete(todo.id)}>
-          <DeleteIcon id="i" />
-        </button>
-      </div>
+    <div>
+      <button
+        className="button-complete"
+        onClick={() => toggleComplete(todo)}
+      >
+        <CheckCircleIcon id="i" />
+      </button>
+      <button
+        className="button-edit"
+        onClick={() => handleEdit(todo, newTitle)}
+      >
+        <EditIcon id="i" />
+      </button>
+      <button className="button-delete" onClick={() => handleDelete(todo.id)}>
+        <DeleteIcon id="i" />
+      </button>
     </div>
+  </div>
   );
 }
