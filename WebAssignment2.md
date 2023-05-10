@@ -1,8 +1,7 @@
 # Contemporary Web Application
 ## Assignment 2
 
-### Author:
-Alberto Orlando Mafla Prado
+### Author: Alberto Orlando Mafla Prado
 
 [Web Host](https://todolist-crud-bbd52.web.app/)
 
