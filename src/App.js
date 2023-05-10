@@ -1,10 +1,11 @@
 import "./App.css";
 import "./other";
-import React from "react";
+import React, { useState } from 'react';
 import Title from "./components/Title";
 import AddTodo from "./components/AddTodo";
 import Todo from "./components/Todo";
-import {
+
+import {//importing firebase
   collection,
   query,
   onSnapshot,
@@ -16,6 +17,11 @@ import { db } from "./firebase";
 
 function App() {
   const [todos, setTodos] = React.useState([]);
+  const [showDiv, setShowDiv] = useState(false);
+
+  const toggleDiv = () => {
+    setShowDiv(!showDiv);
+  }
 
   React.useEffect(() => {
     const q = query(collection(db, "todos"));
@@ -41,26 +47,26 @@ function App() {
   return (
     <div className="App">
       <div id="myToDoApp">
-        <button id="my-toDoApp">My To-Do</button>
-      </div>
-      <div id="toDoForm">
-        <div>
-          <Title />
-        </div>
-        <div>
-          <AddTodo />
-        </div>
-        <div className="todo_container">
-          {todos.map((todo) => (
-            <Todo
-              key={todo.id}
-              todo={todo}
-              toggleComplete={toggleComplete}
-              handleDelete={handleDelete}
-              handleEdit={handleEdit}
-            />
-          ))}
-        </div>
+        <img id="iconToDo" src="/tasksImage.png" alt="to do" onClick={toggleDiv} />
+        {showDiv && <div id="toDoForm">
+          <div>
+            <Title />
+          </div>
+          <div>
+            <AddTodo />
+          </div>
+          <div className="todo_container">
+            {todos.map((todo) => (
+              <Todo
+                key={todo.id}
+                todo={todo}
+                toggleComplete={toggleComplete}
+                handleDelete={handleDelete}
+                handleEdit={handleEdit}
+              />
+            ))}
+          </div>
+        </div>}
       </div>
     </div>
   );
