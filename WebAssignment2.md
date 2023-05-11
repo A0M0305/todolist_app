@@ -34,4 +34,11 @@ One of the downsides of this methodology is that it becomes challenging when man
 
 But this is best suited when working on core projects have been completed and are looking to methods of improvement. Such as this current assignment, were we have what can look like a very good and modern site so why improve it? or how or what to improve. Due to looking at the customer satifaction as a principle lots of surveys and questionaires are essential to understand if the user is satisfied.
 
+## Methods
+
+[Kanban Baord](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d412106a21cde43b77f680e696962331/solent-alumni-webpage)
+
+
+
+## Conclusion/Results
 
