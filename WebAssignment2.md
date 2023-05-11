@@ -3,9 +3,9 @@
 
 ### Author: Alberto Orlando Mafla Prado
 
-[Web Host](https://todolist-crud-bbd52.web.app/)
+Webhost: [To-Do Application](https://todolist-crud-bbd52.web.app/)
 
-[GitHub Repository](https://github.com/A0M0305/todolist_app.git)
+Github: [To-Do Repository](https://github.com/A0M0305/todolist_app.git)
 
 ## Introduction
 
@@ -36,7 +36,7 @@ But this is best suited when working on core projects have been completed and ar
 
 ## Methods
 
-[Kanban Baord](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d412106a21cde43b77f680e696962331/solent-alumni-webpage)
+Kanban Baord: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d412106a21cde43b77f680e696962331/solent-alumni-webpage)
 
 
 
