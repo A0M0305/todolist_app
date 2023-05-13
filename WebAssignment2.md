@@ -28,15 +28,20 @@ Based on what we found on part 1 of the assignment, having a deeper look at the 
 * Adaptability: The project plan and deliverables can be adjusted as needed based on changing requirements or feedback.
 * Continuous improvement: Teams regularly review and improve their processes and products to optimize efficiency and quality.
 
-So the primary key benefit of the Agile methodology is its flexibility. Unlike traditional project management methods, which often involve rigid plans and schedules, Agile methodology allows for changes and adjustments to be made throughout the project. This is particularly useful in software development, where requirements can change rapidly as the project progresses.
+The primary key benefit of the Agile methodology is its flexibility. Unlike traditional project management methods, which often involve rigid plans and schedules, Agile methodology allows for changes and adjustments to be made throughout the project. This is particularly useful in software development, where requirements can change rapidly as the project progresses.
 
-One of the downsides of this methodology is that it becomes challenging when managing the scope of works (SOWs). Because Agile methodology allows for changes and adjustments to be made throughout the project, it can be difficult to manage the scope of the project and ensure that it stays within the agreed-upon parameters.
+One of the downsides of this methodology is that it becomes challenging when managing the scope of works (SOWs). Because Agile methodology allows for changes and adjustments to be made throughout the project, it can be difficult to manage the scope of the project and ensure that it stays within the agreed-upon parameters. In this case we are not looking to build a core/new webpage, rather we are trying to figure out what we can do to improve. This can change throughout the project while investigations and testing goes on. Having this flexability is a true key benefit.
 
-But this is best suited when working on core projects have been completed and are looking to methods of improvement. Such as this current assignment, were we have what can look like a very good and modern site so why improve it? or how or what to improve. Due to looking at the customer satifaction as a principle lots of surveys and questionaires are essential to understand if the user is satisfied.
+As well as the agile methodology also has 2 frameworks to work with, SCRUM and KANBAN. 
+
+
 
 ## Methods
 
-Kanban Baord: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d412106a21cde43b77f680e696962331/solent-alumni-webpage)
+As part of the agile methodology we 
+
+Kanban Board: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d412106a21cde43b77f680e696962331/solent-alumni-webpage)
+image.png
 
 
 
