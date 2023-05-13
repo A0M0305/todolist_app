@@ -32,9 +32,13 @@ The primary key benefit of the Agile methodology is its flexibility. Unlike trad
 
 One of the downsides of this methodology is that it becomes challenging when managing the scope of works (SOWs). Because Agile methodology allows for changes and adjustments to be made throughout the project, it can be difficult to manage the scope of the project and ensure that it stays within the agreed-upon parameters. In this case we are not looking to build a core/new webpage, rather we are trying to figure out what we can do to improve. This can change throughout the project while investigations and testing goes on. Having this flexability is a true key benefit.
 
-As well as the agile methodology also has 2 frameworks to work with, SCRUM and KANBAN. 
+As well as the agile methodology also has 2 frameworks to work with, SCRUM and KANBAN. For this project we looked at using kanban as this fits what we are after flexability following the 4 key principles of kanban:
+1. Visualization of the works
+2. Limit work in progress
+3. Manage Flow and
+4. Making the process policies explicit
 
-
+We will look at these 4 processes in action below.
 
 ## Methods
 
@@ -43,6 +47,8 @@ As part of the agile methodology we
 Kanban Board: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d412106a21cde43b77f680e696962331/solent-alumni-webpage)
 
 ![TrelloKanban](src/md/KanbanBoard_01.png "Trello Kanban")
+
+
 
 
 
