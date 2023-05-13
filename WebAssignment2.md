@@ -40,7 +40,7 @@ As well as the agile methodology also has 2 frameworks to work with, SCRUM and K
 
 ## Methods
 
-As part of the agile methodology we decided to go along with the kaban framework as this best suits the project type and it also suits our work-style.
+As part of the agile methodology we decided to go along with the kanban framework as this best suits the project type and it also suits our work-style.
 
 Kanban Board: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d412106a21cde43b77f680e696962331/sol-redesign)
 
