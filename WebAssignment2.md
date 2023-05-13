@@ -34,9 +34,9 @@ One of the downsides of this methodology is that it becomes challenging when man
 
 As well as the agile methodology also has 2 frameworks to work with, SCRUM and KANBAN. For this project we looked at using kanban as this fits what we are after flexibility following the 4 key principles of kanban:
 1. Visualization of the works
-2. Limit work in progress
-3. Manage Flow and
-4. Making the process policies explicit
+2. Making the process policies explicit
+3. Limit work in progress and
+4. Manage Flow
 
 We will look at these 4 processes in action below.
 
@@ -48,19 +48,17 @@ Kanban Board: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d4
 
 ![TrelloKanban](/src/md/KanbanBoard.png "Figure 1 - Trello Kanban")
 
-Looking at _Figure 1_, this is an overview of the kanban board we used during the project to help organise and see what steps we need to conduct. As part of the __4 principle of kanban__ this covers point 1 and point 4 were "Visuals" and "Making the process policies explicit".
+Looking at _Figure 1_, this is an overview of the kanban board we used during the project to help organise and see what steps we need to conduct. As part of the __4 principle of kanban__ this covers point 1 and point 2 were "Visuals" and "Making the process policies explicit".
 
 As point 1 dictates visualization is a very powerful format and can make it easier to see how small or big the project looks. Using this can also help see who is currently working on what tasks, help spread out the work load and who is working harder than other.
 
 ![AssignedTasks](/src/md/VisualizationExample.png "Figure 2 - Task Assignment")
 
-As this is a solo project _Figure 2_ shows that the task have been assigned to "AO", if there were more developers working on this project you can also combine tasks and create collaborations for the tasks. To improve visualization you can also assign colors for each user, easier on the eye on who is working on what and as part of the Trello [trello](trello.com) tool you can filter by user etc.
+As this is a solo project _Figure 2_ shows that the task have been assigned to "AO", if there were more developers working on this project you can also combine tasks and create collaborations for the tasks. To improve visualization you can also assign colors for each user, easier on the eye on who is working on what and as part of the [Trello](trello.com) tool you can filter by user etc.
 
-When working with any method or framework or tools in a team, it is essential that policies are set and created so that everyone involve know how to use the tool or framework. In this case 
+Having a visual view of the project is useful but if there is no structure to this kanban framework can end up being a confusing view. As such this is where point 2 comes in where __making the process process policies explicit__ is important and set before the start of any kanban framework. There are several tools that can be used, for this project we have been using [Trello](trello.com) and the benefit of this tool is that we have an "About this board" section that allows us to see who is in this board and most importantly a section we can use to write out the policies for this board. Surprisingly this can be written down in Markdown format.
 
-
-
-
+![](src/md/BoardPolicies.png "Figure 3 - Policies set for Trello board")
 
 
 
