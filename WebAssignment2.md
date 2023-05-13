@@ -44,11 +44,17 @@ We will look at these 4 processes in action below.
 
 As part of the agile methodology we 
 
-Kanban Board: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d412106a21cde43b77f680e696962331/solent-alumni-webpage)
+Kanban Board: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d412106a21cde43b77f680e696962331/sol-redesign)
 
 ![TrelloKanban](src/md/KanbanBoard_01.png "Figure 1 - Trello Kanban")
 
-Looking at _Figure 1_, this is an overview of the kanban board we used during the project to help organise and see what steps we need to conduct. 
+Looking at _Figure 1_, this is an overview of the kanban board we used during the project to help organise and see what steps we need to conduct. As part of the __4 principle of kanban__ this covers point 1 and point 4 were "Visuals" and "Making the process policies explicit".
+
+
+
+When working with any method or framework or tools in a team, it is esential that policies are set and created so that everyone involve know how to use the tool or framework. In this case 
+
+
 
 
 
