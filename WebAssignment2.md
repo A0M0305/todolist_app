@@ -69,7 +69,7 @@ As per _Figure 3_ below are the policies set for this project kanban board.
 - Once the task is completed from the **In Progress** column it can be moved to the **Completed** column for the project leader to review.
 - Finally, once project leader has reviewed **Completed** tasks they can create what needs to be tested on the **Testing** column.
 
-Following to point 3, __managing flow__, this responsibility would lie on the project leader. It is important that this individual followed up on the task and the stage it currently on and move it along if found that the task has/had been assigned 
+Following to point 3, __managing flow__, this is the responsibility of all members on this project,  but there would normally be a project leader that would take primary responsibility to ensure that tasks are flowing based on the set policies. As per _Figure 1_ our current Kanban table shows that we have followed our policies and update with tasks to ensure we completed the primary __Designs__. 
 
 ## Conclusion/Results
 
