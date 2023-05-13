@@ -46,7 +46,7 @@ As part of the agile methodology we
 
 Kanban Board: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d412106a21cde43b77f680e696962331/solent-alumni-webpage)
 
-![TrelloKanban](src/md/KanbanBoard_01.png "Trello Kanban")
+![TrelloKanban](src/md/KanbanBoard_01.png "Figure 1 - Trello Kanban")
 
 
 
