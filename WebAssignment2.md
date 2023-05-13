@@ -46,7 +46,7 @@ As part of the agile methodology we
 
 Kanban Board: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d412106a21cde43b77f680e696962331/sol-redesign)
 
-![TrelloKanban](src/md/KanbanBoard_01.png "Figure 1 - Trello Kanban")
+![TrelloKanban](/src/md/KanbanBoard_01.png "Figure 1 - Trello Kanban")
 
 Looking at _Figure 1_, this is an overview of the kanban board we used during the project to help organise and see what steps we need to conduct. As part of the __4 principle of kanban__ this covers point 1 and point 4 were "Visuals" and "Making the process policies explicit".
 
