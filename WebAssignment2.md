@@ -41,7 +41,7 @@ As well as the agile methodology also has 2 frameworks to work with, SCRUM and K
 As part of the agile methodology we 
 
 Kanban Board: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d412106a21cde43b77f680e696962331/solent-alumni-webpage)
-image.png
+[TrelloKanban](/src/md/KanbanBoard_01.png)
 
 
 
