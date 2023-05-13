@@ -58,6 +58,17 @@ Having a visual view of the project is useful but if there is no structure to th
 
 ![](src/md/BoardPolicies.png "Figure 3 - Policies set for Trello board")
 
+As per _Figure 3_ below are the policies set for this project kanban board.
+
+#### Policies:
+
+- All design point need to be added to the **Design** column. These  will be the key design discussion and current works.
+- Any designs that are not current focus will be added to **Backlog**, this will be reviewed once we have completed current **Design**.
+- From **Design** you can create the task that need to be completed on the **To Do** column. More tasks can be added throughout the project but must be related to **Design.**
+- To move the task from **To Do** it must be assigned to a member who will take responsibility in completing this task. Once assigned this can be moved to **In Progress**.
+- Once the task is completed from the **In Progress** column it can be moved to the **Completed** column for the project leader to review.
+- Finally, once project leader has reviewed **Completed** tasks they can create what needs to be tested on the **Testing** column.
+
 
 
 ## Conclusion/Results
