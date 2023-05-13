@@ -48,6 +48,8 @@ Kanban Board: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d4
 
 ![TrelloKanban](src/md/KanbanBoard_01.png "Figure 1 - Trello Kanban")
 
+Looking at _Figure 1_, this is an overview of the kanban board we used during the project to help organise and see what steps we need to conduct. 
+
 
 
 
