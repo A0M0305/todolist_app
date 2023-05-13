@@ -30,9 +30,9 @@ Based on what we found on part 1 of the assignment, having a deeper look at the 
 
 The primary key benefit of the Agile methodology is its flexibility. Unlike traditional project management methods, which often involve rigid plans and schedules, Agile methodology allows for changes and adjustments to be made throughout the project. This is particularly useful in software development, where requirements can change rapidly as the project progresses.
 
-One of the downsides of this methodology is that it becomes challenging when managing the scope of works (SOWs). Because Agile methodology allows for changes and adjustments to be made throughout the project, it can be difficult to manage the scope of the project and ensure that it stays within the agreed-upon parameters. In this case we are not looking to build a core/new webpage, rather we are trying to figure out what we can do to improve. This can change throughout the project while investigations and testing goes on. Having this flexability is a true key benefit.
+One of the downsides of this methodology is that it becomes challenging when managing the scope of works (SOWs). Because Agile methodology allows for changes and adjustments to be made throughout the project, it can be difficult to manage the scope of the project and ensure that it stays within the agreed-upon parameters. In this case we are not looking to build a core/new webpage, rather we are trying to figure out what we can do to improve. This can change throughout the project while investigations and testing goes on. Having this flexibility is a true key benefit.
 
-As well as the agile methodology also has 2 frameworks to work with, SCRUM and KANBAN. For this project we looked at using kanban as this fits what we are after flexability following the 4 key principles of kanban:
+As well as the agile methodology also has 2 frameworks to work with, SCRUM and KANBAN. For this project we looked at using kanban as this fits what we are after flexibility following the 4 key principles of kanban:
 1. Visualization of the works
 2. Limit work in progress
 3. Manage Flow and
@@ -50,9 +50,13 @@ Kanban Board: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d4
 
 Looking at _Figure 1_, this is an overview of the kanban board we used during the project to help organise and see what steps we need to conduct. As part of the __4 principle of kanban__ this covers point 1 and point 4 were "Visuals" and "Making the process policies explicit".
 
+As point 1 dictates visualization is a very powerful format and can make it easier to see how small or big the project looks. Using this can also help see who is currently working on what tasks, help spread out the work load and who is working harder than other.
 
+![AssignedTasks](/src/md/VisualizationExample.png "Figure 2 - Task Assignment")
 
-When working with any method or framework or tools in a team, it is esential that policies are set and created so that everyone involve know how to use the tool or framework. In this case 
+As this is a solo project _Figure 2_ shows that the task have been assigned to "AO", if there were more developers working on this project you can also combine tasks and create collaborations for the tasks. To improve visualization you can also assign colors for each user, easier on the eye on who is working on what and as part of the Trello [trello](trello.com) tool you can filter by user etc.
+
+When working with any method or framework or tools in a team, it is essential that policies are set and created so that everyone involve know how to use the tool or framework. In this case 
 
 
 
