@@ -38,11 +38,9 @@ As well as the agile methodology also has 2 frameworks to work with, SCRUM and K
 3. Limit work in progress and
 4. Manage Flow
 
-We will look at these 4 processes in action below.
-
 ## Methods
 
-As part of the agile methodology we 
+As part of the agile methodology we decided to go along with the kaban framework as this best suits the project type and it also suits our work-style.
 
 Kanban Board: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d412106a21cde43b77f680e696962331/sol-redesign)
 
