@@ -1,9 +1,9 @@
 # Contemporary Web Application
 ## Assignment 2
 
-### Author: Alberto Orlando Mafla Prado
+Author: Alberto Orlando Mafla Prado
 
-Webhost: [To-Do Application](https://todolist-crud-bbd52.web.app/)
+Web host site: [To-Do Application](https://todolist-crud-bbd52.web.app/)
 
 Github: [To-Do Repository](https://github.com/A0M0305/todolist_app.git)
 
@@ -44,13 +44,13 @@ As part of the agile methodology we decided to go along with the kanban framewor
 
 Kanban Board: [SOL ReDesign](https://trello.com/invite/b/oYmTzJ80/ATTIcfb2e444d412106a21cde43b77f680e696962331/sol-redesign)
 
-![TrelloKanban](/src/md/KanbanBoard.png "Figure 1 - Trello Kanban")
+![](/src/md/KanbanBoard.png "Figure 1 - Trello Kanban")
 
 Looking at _Figure 1_, this is an overview of the kanban board we used during the project to help organise and see what steps we need to conduct. As part of the __4 principle of kanban__ this covers point 1 and point 2 were "Visuals" and "Making the process policies explicit".
 
 As point 1 dictates visualization is a very powerful format and can make it easier to see how small or big the project looks. Using this can also help see who is currently working on what tasks, help spread out the work load and who is working harder than other.
 
-![AssignedTasks](/src/md/VisualizationExample.png "Figure 2 - Task Assignment")
+![](/src/md/VisualizationExample.png "Figure 2 - Task Assignment")
 
 As this is a solo project _Figure 2_ shows that the task have been assigned to "AO", if there were more developers working on this project you can also combine tasks and create collaborations for the tasks. To improve visualization you can also assign colors for each user, easier on the eye on who is working on what and as part of the [Trello](trello.com) tool you can filter by user etc.
 
@@ -69,7 +69,14 @@ As per _Figure 3_ below are the policies set for this project kanban board.
 - Once the task is completed from the **In Progress** column it can be moved to the **Completed** column for the project leader to review.
 - Finally, once project leader has reviewed **Completed** tasks they can create what needs to be tested on the **Testing** column.
 
-Following to point 3, __managing flow__, this is the responsibility of all members on this project,  but there would normally be a project leader that would take primary responsibility to ensure that tasks are flowing based on the set policies. As per _Figure 1_ our current Kanban table shows that we have followed our policies and update with tasks to ensure we completed the primary __Designs__. 
+Following to point 3, __managing flow__, this is the responsibility of all members on this project,  but there would normally be a project leader that would take primary responsibility to ensure that tasks are flowing based on the set policies. As per _Figure 1_ our current Kanban table shows that we have followed our policies and update with tasks to ensure we completed the primary __Designs__.
+
+Finally we look at point 4, __limit the work in progress__. We find that the key benefit of using the Agile with the Kanban framework is because of its flexibility and allowing us to view the project and adapt.
+
+![](src/md/LimitWorks.png "Figure 4 - Limiting work flexibility")
+
+As per the policy placed, all designs and new design ideas are placed in the __Design__ column. From here it is decided which design idea would be the main focus. Based on the current work load, these ideas can be assigned and continued to the next steps or it can be put in the __Backlog__ column, as seen in _Figure 4_, so that the idea is not just discarded but in sight all all members to know that these are the future design developments to which when the work load drops these ideas can be brought forward to the __Design__ column to then start the new flow.
+
 
 ## Conclusion/Results
 
