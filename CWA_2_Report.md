@@ -73,6 +73,7 @@ Finally we look at point 4, __limit the work in progress__. We find that the key
 
 As per the policy placed, all designs and new design ideas are placed in the __Design__ column. From here it is decided which design idea would be the main focus. Based on the current work load, these ideas can be assigned and continued to the next steps or it can be put in the __Backlog__ column, as seen in _Figure 4_, so that the idea is not just discarded but in sight all all members to know that these are the future design developments to which when the work load drops these ideas can be brought forward to the __Design__ column to then start the new flow.
 
-
 ## Conclusion/Results
+Using the Agile with the Kanban framework really suited our style of work for its visuals, organisation and flexibility. The fact that we can add ideas note it down, review and decide whether it can fit the time scale is a massive benefit, but then bring baCK if we have more time or ahead of schedule is useful. Whilst working on this project we were able to adapt and change the design ideas to the way the to-do app was being developed. Originally it was meant to be a simple webpage where the user gets directed to, but after another survey we found that they would prefer to have the app as a pop up for quicker access and less clicks. Following from that survey we also found that the user would prefer to have the app away from the secondary nav menu, which was a new idea that we had not thought of. This was a great idea and we were able to adapt and change the design to fit the new requirements.
 
+In all we believe that the Agile with the Kanban framework is a great way to work and we will continue to use this in future projects.
