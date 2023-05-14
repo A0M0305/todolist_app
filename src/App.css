@@ -2,6 +2,7 @@
 
 body {
 background-image: url(/public/Web\ capture_10-5-2023_12277_learn.solent.ac.uk.jpeg);
+background-repeat: no-repeat;
 background-size: cover;
 }
 
@@ -26,12 +27,11 @@ background-size: cover;
   align-items: center;
   justify-content: center;
   background-color: rgb(233, 172, 233, 0.9); 
-  overflow-y: scroll; 
- /* Hide the DIV */
+  overflow-y: scroll;
 }
 
 #iconToDo {
-  margin: 10px 1330px;
+  margin: 10px 1030px;
   cursor: pointer;
 }
 
@@ -131,12 +131,15 @@ form input {
 .button-delete {
   color: rgb(255, 122, 98);
 }
-@media screen and (max-width: 667px) {
+@media screen and (max-width: 660px) {
   .task_container {
     width: 90%;
   }
   .task {
     margin-right: 0px;
+  }
+  #iconToDo {
+    margin-left: 0px;
   }
 }
 input:focus,
